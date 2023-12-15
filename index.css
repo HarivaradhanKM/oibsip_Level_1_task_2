@@ -10,7 +10,7 @@ body {
 
 /*NAVBAR*/
 .navbar {
-  background-color: #996505;
+  background-color: #00736D;
   position: fixed;
   top: 0;
   width: 100%;
@@ -36,7 +36,7 @@ body {
 /*HOMEPAGE*/
 .homepage {
   height: 100vh;
-  background: #ffa500;
+  background: #00C9BF;
   margin-bottom: 0;
 
   display: flex;
@@ -152,9 +152,9 @@ body {
 }
 
 h2 {
-  font-weight: 300;
+  font-weight: 400;
   font-size: 35px;
-  color: #ffa500;
+  color: #00C9BF;
   text-transform: uppercase;
   text-align: center;
 }
@@ -245,7 +245,7 @@ h4 {
   margin: 7px;
   padding: 5px 10px;
   color: white;
-  background: #ffa500;
+  background: #00C9BF;
   list-style: none;
   cursor: default;
   font-size: 1.2em;
@@ -253,8 +253,8 @@ h4 {
 /*END SKILLS*/
 
 /*CONTACT*/
-.orange {
-  background: #ffa500;
+.contact-bg {
+  background: #00C9BF;
   text-align: center;
 }
 
